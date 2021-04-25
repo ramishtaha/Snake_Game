@@ -5,4 +5,4 @@
 
 ### The High score is saved in a file.
 
-
+![](snake_game.gif)
