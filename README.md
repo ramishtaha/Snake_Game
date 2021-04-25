@@ -1,3 +1,8 @@
-# Snake_Game
+# Classic Old Snake Game
 
-## Snake_Ga,me
+## It's a part of my #100DaysOfCode Challange.
+
+
+### The High score is saved in a file.
+
+
